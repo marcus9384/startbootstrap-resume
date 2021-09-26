@@ -31,9 +31,10 @@
   --bs-gray-500: #adb5bd;
   --bs-gray-600: #6c757d;
   --bs-gray-700: #495057;
-  --bs-gray-800: #343a40;
+  --bs-gray-800: #343a4;
   --bs-gray-900: #212529;
-  --bs-primary: #bd5d38;
+  /* --bs-primary: #bd5d38; */
+  --bs-primary: #0b579c;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -59,6 +60,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
+  /* --bs-body-color: #212529; */
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
 }
